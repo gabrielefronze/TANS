@@ -36,6 +36,7 @@ void radiodecay3(Double_t alpha, UInt_t pop, Double_t ttot, Double_t res, UInt_t
 	//canv->cd(1);
 	histodecnumber->Draw();
 	histodecnumber->Fit("pois");
+	cout<<"ciao cava"<<endl;
 	//canv->cd(2);
 	//gPad->SetLogy();
 	//histodecnumber->Draw();
