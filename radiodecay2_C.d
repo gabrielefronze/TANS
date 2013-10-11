@@ -1,0 +1,52 @@
+
+# DO NOT DELETE
+
+./radiodecay2_C.so: /home/gabriele/root/include/TRandom.h
+./radiodecay2_C.so: /home/gabriele/root/include/TNamed.h
+./radiodecay2_C.so: /home/gabriele/root/include/TObject.h
+./radiodecay2_C.so: /home/gabriele/root/include/Rtypes.h
+./radiodecay2_C.so: /home/gabriele/root/include/RConfig.h
+./radiodecay2_C.so: /home/gabriele/root/include/RVersion.h
+./radiodecay2_C.so: /home/gabriele/root/include/DllImport.h
+./radiodecay2_C.so: /home/gabriele/root/include/Rtypeinfo.h
+./radiodecay2_C.so: /home/gabriele/root/include/snprintf.h
+./radiodecay2_C.so: /home/gabriele/root/include/strlcpy.h
+./radiodecay2_C.so: /home/gabriele/root/include/TGenericClassInfo.h
+./radiodecay2_C.so: /home/gabriele/root/include/TSchemaHelper.h
+./radiodecay2_C.so: /home/gabriele/root/include/TStorage.h
+./radiodecay2_C.so: /home/gabriele/root/include/TVersionCheck.h
+./radiodecay2_C.so: /home/gabriele/root/include/Riosfwd.h
+./radiodecay2_C.so: /home/gabriele/root/include/TBuffer.h
+./radiodecay2_C.so: /home/gabriele/root/include/TString.h
+./radiodecay2_C.so: /home/gabriele/root/include/TMathBase.h
+./radiodecay2_C.so: /home/gabriele/root/include/TH1D.h
+./radiodecay2_C.so: /home/gabriele/root/include/TH1.h
+./radiodecay2_C.so: /home/gabriele/root/include/TAxis.h
+./radiodecay2_C.so: /home/gabriele/root/include/TAttAxis.h
+./radiodecay2_C.so: /home/gabriele/root/include/TArrayD.h
+./radiodecay2_C.so: /home/gabriele/root/include/TArray.h
+./radiodecay2_C.so: /home/gabriele/root/include/TAttLine.h
+./radiodecay2_C.so: /home/gabriele/root/include/TAttFill.h
+./radiodecay2_C.so: /home/gabriele/root/include/TAttMarker.h
+./radiodecay2_C.so: /home/gabriele/root/include/TArrayC.h
+./radiodecay2_C.so: /home/gabriele/root/include/TArrayS.h
+./radiodecay2_C.so: /home/gabriele/root/include/TArrayI.h
+./radiodecay2_C.so: /home/gabriele/root/include/TArrayF.h
+./radiodecay2_C.so: /home/gabriele/root/include/Foption.h
+./radiodecay2_C.so: /home/gabriele/root/include/TVectorFfwd.h
+./radiodecay2_C.so: /home/gabriele/root/include/TVectorDfwd.h
+./radiodecay2_C.so: /home/gabriele/root/include/TFitResultPtr.h
+./radiodecay2_C.so: /home/gabriele/root/include/TCanvas.h
+./radiodecay2_C.so: /home/gabriele/root/include/TPad.h
+./radiodecay2_C.so: /home/gabriele/root/include/TVirtualPad.h
+./radiodecay2_C.so: /home/gabriele/root/include/TAttPad.h
+./radiodecay2_C.so: /home/gabriele/root/include/TVirtualX.h
+./radiodecay2_C.so: /home/gabriele/root/include/TAttText.h
+./radiodecay2_C.so: /home/gabriele/root/include/GuiTypes.h
+./radiodecay2_C.so: /home/gabriele/root/include/Buttons.h
+./radiodecay2_C.so: /home/gabriele/root/include/TQObject.h
+./radiodecay2_C.so: /home/gabriele/root/include/TAttCanvas.h
+./radiodecay2_C.so: /home/gabriele/root/include/TCanvasImp.h
+./radiodecay2_C.so: /home/gabriele/root/include/TStyle.h
+./radiodecay2_C.so: /home/gabriele/root/include/cintdictversion.h /home/gabriele/root/include/RVersion.h
+radiodecay2_C__ROOTBUILDVERSION= 5.34/07
